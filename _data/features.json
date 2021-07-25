@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Богатый опыт",
+    "description": "Сотни успешно согласованных перепланировок за последние 10 лет.",
+    "image": "images/features/noun_The Process_1885341.svg"
+  },
+  {
+    "title": "Всегда на связи",
+    "description": "Доступна для звонка 7 дней в неделю, с утра до вечера.",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+  },
+  {
+    "title": "Надёжно",
+    "description": "Все шаги описаны и разъяснены в договоре.",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+  },
+  {
+    "title": "Бесплатная консультация",
+    "description": "Расскажу о том, что нужно делать именно в вашем случае.",
+    "image": "images/features/noun_branding_1885335.svg"
+  },
+  {
+    "title": "Профильное образоване",
+    "description": "Два высших образования: в сфере строительства и юриспруденции.",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+  }
+]
