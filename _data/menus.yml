@@ -1,4 +1,7 @@
 main:
+  - name: "Главная"
+    url: "/"
+    weight: 1
   - name: "Услуги"
     url: "/services/"
     weight: 2
